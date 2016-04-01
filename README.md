@@ -34,6 +34,7 @@ Saber provides wrapper classes for all shared preference applicable value types,
 	BooleanPreference
 	StringPreference
 	StringSetPreference
+	ObjectPreference
 
 Configuration
 -------------
